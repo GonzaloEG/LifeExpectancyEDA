@@ -1,6 +1,6 @@
 # Análisis de Esperanza de Vida (2000-2015)
 **Fuente:** Organización Mundial de la Salud (OMS) | **Dataset:** Kaggle - Life Expectancy WHO
-**Autor:** Gonzalo Emmanuel Garcia
+**Autor:** Gonzalo Emmanuel Garcia (https://www.linkedin.com/in/gonzalo-garcia-b019a1397/)
 
 ## Descripción
 
